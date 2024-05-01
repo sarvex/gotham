@@ -15,7 +15,7 @@ license = "MIT/Apache-2.0"
 edition = "2018"
 
 [dependencies]
-futures-util = "0.3.14"
+futures-util = "0.3.30"
 gotham = { path = "../../gotham", version = "0.7.1", default-features = false, features = ["derive"] }
 jsonwebtoken = { version = "8.0", default-features = false }
 log = "0.4"
